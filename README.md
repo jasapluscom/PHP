@@ -1,2 +1,2 @@
 # PHP
-php source codes
+PHP source codes
